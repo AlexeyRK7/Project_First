@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Описание-проета)
-[2. Какой кейс решаем?](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проетом](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проетом)
-[5. Результаты](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Результаты)
-[6. Выводы](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Выводы)
+[1. Описание проекта]()
+[2. Какой кейс решаем?]()
+[3. Краткая информация]()
+[4. Этапы работы над проетом]()
+[5. Результаты]()
+[6. Выводы]()
 
 ### Описание проекта 
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -15,7 +15,7 @@
 Угадал число, пробуем сделать до 20 попыток.
 Угадываем число код будет, методом бинарного поиска.
 
-:arrow_up:[К оглавлению](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[К оглавлению]()
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное количество попыток.
@@ -36,16 +36,16 @@ game.py тестовый файл первый проект с которого 
 game_v2.py код который угадывает число в среднем за 5 попыток
 game.ipynb презинтация кода, для просмотра результата из файла game_v2.py
 
-:arrow_up:[К оглавлению](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[К оглавлению]()
 
 ### Этапы работы над проетом
 Прочитав условие выполнил следующие действие
 в файле game_v2.py переписал и протестировал с обычного перебора всех чисел на бинарный поиск числа
 провел тестирование.
-Подробнее с кодом можно ознакомится в (https://github.com/alkoop1/sf_data_science/blob/main/project_0/game_v2.py)
-то какой результат показывает наглядно нам код можно ознакомится (https://github.com/alkoop1/sf_data_science/blob/main/project_0/game.ipynb)
+Подробнее с кодом можно ознакомится в ()
+то какой результат показывает наглядно нам код можно ознакомится ()
 
-:arrow_up:[К оглавлению](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[К оглавлению]()
 
 ### Результаты
 В результате выполнил эти условия:
@@ -54,11 +54,11 @@ game.ipynb презинтация кода, для просмотра резул
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 - Алгоритм угадывает число за 5 попыток
 
-:arrow_up:[К оглавлению](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[К оглавлению]()
 
 ### Выводы
 Вывод в результате написания этого кода лучше оствол методы бинарного поиска.
 Лучше стал в этом орентироваться, так же научился писать документы в github.
 И описывать дейсвия проделланой работы.
 
-:arrow_up:[К оглавлению](https://github.com/alkoop1/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[К оглавлению]()
